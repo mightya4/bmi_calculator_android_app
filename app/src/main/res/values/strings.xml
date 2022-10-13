@@ -3,6 +3,7 @@
     <string name="height_text">Your Height:</string>
     <string name="weight_text">Your Weight:</string>
     <string name="bmi_text">Your BMI:</string>
+    <string name="compute_bmi">Compute BMI</string>
     <string name="feet">(feet)</string>
     <string name="inches">(inches)</string>
     <string name="pounds">(pounds)</string>
